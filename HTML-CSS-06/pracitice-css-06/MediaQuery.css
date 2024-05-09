@@ -23,6 +23,12 @@ h1{
 }
 @media(max-width: 200px){
     h1{
-         background-color: palevioletred;
+         background-color: palevioletred ;
+    }
+}
+@media(orientation : landscape){
+    h1{
+        background-color: aqua;
+        color: brown;
     }
 }

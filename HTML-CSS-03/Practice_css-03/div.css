@@ -1,0 +1,8 @@
+div{
+    height: 300px;
+    width: 300px ;
+    background-color: rebeccapurple;
+    border: solid 2px black;
+    margin: 5px;
+    display: inline-block;
+}

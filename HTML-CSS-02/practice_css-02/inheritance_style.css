@@ -1,0 +1,21 @@
+div {
+    background-color: yellowgreen;
+}
+
+input{
+    background-color: inherit;
+}
+
+button {
+    background-color: inherit;
+}
+select{
+    background-color: rgb(205, 59, 27);
+}
+#main{
+    background-color: red;
+}
+
+h2{
+    background-color: aqua;
+}

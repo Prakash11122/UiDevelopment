@@ -1,0 +1,10 @@
+div{
+    width: 1200px;
+    height: 600px;
+    background-color: rgb(85, 133, 133);
+    margin: 10px auto;
+    background-image: url(../Practice_html-04/beautiful.jpg);
+    background-size: cover;
+    color: aliceblue;
+
+}
